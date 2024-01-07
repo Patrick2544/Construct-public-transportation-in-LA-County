@@ -1,0 +1,15 @@
+CNS Crenshaw
+LMP Leimert Park
+CLA Central LA
+KRT Korean Town
+WEW Westwood
+WLA West Los Angeles
+HLW Hollywood
+MCT Mid City 
+BNW Brentwood
+BVH Beverly Hills
+SMC Santa Monica
+CVC Culver City
+LRH Ladera Heights
+MDR Marina Del Rey
+LAX Los Angeles International Airport

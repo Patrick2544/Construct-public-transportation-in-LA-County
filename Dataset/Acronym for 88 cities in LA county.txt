@@ -1,0 +1,91 @@
+Acronym for 88 cities in LA county
+
+AGH Agoura Hills
+AHB Alhambra
+ACD Arcadia
+ATS Artesia
+AVL Avalon
+AZS Azusa
+BWP Baldwin Park
+BEL Bell
+BEF Bellflower
+BGD Bell Gardens
+BVH Beverly Hills
+BBR Bradbury
+BBK Burbank
+CLB Calabasas
+CSN Carson
+CRT Cerritos
+CLM Claremont
+COM Commerce
+CPT Compton
+CVN Covina
+CDH Cudahy
+CVC Culver City
+DMB Diamond Bar
+DWN Downey
+DAT Duarte
+ELM El Monte
+ELS El Segundo
+GDN Gardena
+GND Glendale
+GDR Glendora
+HWG Hawaiian Gardens
+HTH Hawthorne
+HSB Hermosa Beach
+HDH Hidden Hills
+HTT Huntington Park
+IDT Industry
+IGW Inglewood
+IWD Irwindale
+LCF La Canada Flintridge
+LHH La Habra Heights
+LMD La Mirada
+LPT La Puente
+LVN LA Verne
+LKW Lakewood
+LCT Lancaster
+LND LawnDale
+LMT Lomita
+LGB Long Beach
+LNW Lynwood
+LLA Lake Los Angeles
+MLB Malibu
+MHB Manhattan Beach
+MAY Maywood
+MRV Monrovia
+MTB Montebello
+MTP Monterey Park
+NOR Norwalk
+PMD Palmdale
+PVE Palos Verdes Estates
+PRM Paramount
+PDN Pasadena
+PCR Pico Rivera
+PMN Pomona
+RPV Rancho Palos Verdes
+RDD Redondo Beach
+RLH Rolling Hills
+RHE Rolling Hills Estates
+RSM Rosemead
+SDM San Dimas
+SFD San Fernando
+SGB San Gabriel
+SMN San Marino
+SCT Santa Clarita
+SFS Santa Fe Springs
+SMC Santa Monica
+SRM Sierra Madre
+SNH Signal Hill
+SEM South El Monte
+SGE South Gate
+SPD South Pasadena
+TPC Temple city
+TOR Torrance
+VEN Vernon
+WLN Walnut
+WCN West Covina
+WHW West Hollywood
+WLV Westlake Village
+WHT Whittier
+NRG Northridge
