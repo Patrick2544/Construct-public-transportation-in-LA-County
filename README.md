@@ -3,7 +3,7 @@
 
 # Table of Contents
 1. [Project Overview](#Project-Overview)
-2. [Project's Outcome](#Project-Outcome)
+2. [Project's Outcome](#Projects-Outcome)
 3. [Contributions](#Contributions)
 4. [Limitations](#Limitations)
 5. [Future Work](#Future-work)
