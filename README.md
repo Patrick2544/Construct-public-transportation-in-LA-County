@@ -1,14 +1,20 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Static Badge](https://img.shields.io/badge/Java-20.0-orange?link=https%3A%2F%2Fwww.java.com%2Fen%2F)
 ![Static Badge](https://img.shields.io/badge/Website-Jittapatrick-blue?logo=README&logoColor=%23999999&link=https%3A%2F%2Fbit.ly%2Fjittapatrick) ![Static Badge](https://img.shields.io/badge/Github-patrick2544-black?logo=Github&logoColor=%25230098FF&link=https%3A%2F%2Fgithub.com%2FPatrick2544) ![Static Badge](https://img.shields.io/badge/Paypal-donate-purple?logo=Paypal&logoColor=%25230098FF&link=https%3A%2F%2Fpaypal.me%2Fsjpmiles%3Fcountry.x%3DTH%26locale.x%3Dth_TH)
 
+# Table of Contents
+1. [Project Overview](#Project-Overview)
+2. [Project's Outcome](#Project's-Outcome)
+3. [Contributions](#Contributions)
+4. [Limitations](#Limitations)
+5. [Future Work](#Future-work)
 
-# About the Project
+# Project Overview
 This is the research project for my Advanced Data Structure class under the topic: **Utilize Kruskal's minimum spanning tree algorithm to construct a public transportation system**. At the end, 25-minute [presentation](https://github.com/Patrick2544/Kruskal-algorithm-on-public-transportation/blob/main/PDF%20Slides.pdf) was required with a powerpoint slides in [IEEE format](https://www.ieee.org/about/index.html). The project is inspired by the [public transportation](https://cdn-cms.pgimgs.com/static/2019/07/mrta_bangkok-metro-system-map.png) system in [Bangkok](https://en.wikipedia.org/wiki/Bangkok), my hometown.
 
 ## Project Goals
 This project aims to extend public transportation access across LA County, providing viable alternatives for commuting without relying on cars.
 
-# The Project's Outcome
+# Project's Outcome
 Note: The schematic map is not up to scale
 
 ![Final Transportation map](https://github.com/Patrick2544/Kruskal-algorithm-on-public-transportation/assets/52234759/5c33761c-ea7c-498d-b031-0ac834243d2e)
