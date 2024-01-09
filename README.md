@@ -3,7 +3,7 @@
 
 
 # About the Project
-This is the research project for my Advanced Data Structure class under the topic: **Utilize Kruskal's minimum spanning tree algorithm to construct a public transportation system**. At the end, 25-minute [presentation](https://github.com/Patrick2544/Kruskal-algorithm-on-public-transportation/blob/main/PDF%20Slides.pdf) was required with a powerpoint slides in IEEE format. The project is inspired by the [public transportation](https://cdn-cms.pgimgs.com/static/2019/07/mrta_bangkok-metro-system-map.png) system in [Bangkok](https://en.wikipedia.org/wiki/Bangkok), my hometown.
+This is the research project for my Advanced Data Structure class under the topic: **Utilize Kruskal's minimum spanning tree algorithm to construct a public transportation system**. At the end, 25-minute [presentation](https://github.com/Patrick2544/Kruskal-algorithm-on-public-transportation/blob/main/PDF%20Slides.pdf) was required with a powerpoint slides in [IEEE format](https://www.ieee.org/about/index.html). The project is inspired by the [public transportation](https://cdn-cms.pgimgs.com/static/2019/07/mrta_bangkok-metro-system-map.png) system in [Bangkok](https://en.wikipedia.org/wiki/Bangkok), my hometown.
 
 ## Project Goals
 This project aims to extend public transportation access across LA County, providing viable alternatives for commuting without relying on cars.
